@@ -14,7 +14,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Running unit testss
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## utilizando API fake json-server
+Init package.json in folder backend `npm init -y` 
+Install npm i json-server
+
+## Criando Service para camada de API/ValidaçÕes
+`ng generate service nome-do-service`

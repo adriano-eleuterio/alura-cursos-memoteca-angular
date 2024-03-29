@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Seja bem vindo !!!",
+      "autoria": "Nay",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 1,
+      "conteudo": "Vai dar tudo certo !!!",
+      "autoria": "Jes",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 1,
+      "conteudo": "Deus está no controle !!!",
+      "autoria": "Adr",
+      "modelo": "modelo3"
+    }
+  ]
+}
